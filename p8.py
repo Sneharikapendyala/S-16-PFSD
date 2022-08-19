@@ -1,0 +1,5 @@
+tup1=(5,"hello","python",9.2)
+print(tup1[2])
+print(tup1[0:3])
+print(tup1[1:])
+print(tup1 * 4)
